@@ -7,7 +7,7 @@ See my YT channel, "https://www.youtube.com/channel/UCFqZmvEYIL7xV637tlrd8qQ"
 
 
 
-link: https://github.com/Mahdi951-pro/sum20.git
+link: https://github.com/Mahdi951-pro
 
 # ১ থেকে ২০ পর্যন্ত সব সংখ্যার যোগফল বের করা
 
