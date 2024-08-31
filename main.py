@@ -10,5 +10,5 @@ s = 0
 n = 20
 while i <= n:
     s = s + i
-    i = i + 1  # Increment i by 1
+    i = i + 1 
 print("The sum is:", s)
