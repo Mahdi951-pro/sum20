@@ -1,4 +1,4 @@
-"IT IS ONLY FOR SCHOOL HOMEWORK BY abid al mahdi"
+"It is only school homework by ABID AL MAHDI"
 
 See my YT channel, "https://www.youtube.com/channel/UCFqZmvEYIL7xV637tlrd8qQ"
 
