@@ -1,6 +1,7 @@
+"IT IS ONLY FOR MY SCHOOL HOMEWORK"
 
 
-See "main.py" all for code.
+💕See "main.py" all for code.
 
 
 
